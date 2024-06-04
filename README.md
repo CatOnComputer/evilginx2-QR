@@ -8,9 +8,10 @@
 # READ FIRST
 
 
-This is a customized-(customized!) fork of the @kgretzky gophish fork.
-I strongly suggest using the original GoPhish repo, or the EvilGinx compatible fork if that's what you need.
-This project will have configurations & features you may not desire or expect.
+
+This is a customized fork of evilginx.
+I strongly suggest using the original evilginx repo.
+This project may have configurations & features you do not desire or expect.
 
 
 
