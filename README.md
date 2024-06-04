@@ -5,6 +5,15 @@
   </p>
 </p>
 
+# READ FIRST
+
+
+This is a customized-(customized!) fork of the @kgretzky gophish fork.
+I strongly suggest using the original GoPhish repo, or the EvilGinx compatible fork if that's what you need.
+This project will have configurations & features you may not desire or expect.
+
+
+
 # Evilginx 3.0
 
 **Evilginx** is a man-in-the-middle attack framework used for phishing login credentials along with session cookies, which in turn allows to bypass 2-factor authentication protection.
